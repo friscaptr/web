@@ -1,0 +1,76 @@
+
+@import url('http://fonts.googleapis.com/css/family=Quicksand:400,500&subset=latin-ext');
+body {
+    padding: 100px;
+    background-image: linear-gradient(-20deg, #D77FA1 0%,#BAABDA 100%, #D6E5FA 100%);
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+u1 {
+    margin-left: -45px;
+    color :#1A1A40;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.main{
+    width: 800px;
+    height: 520px;
+    background-color: #FFF9F9;
+    margin : 0 auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    border: 1px solid #eeeeee
+}
+.img {
+    background-image: url(frc.png);
+    background-color: #eaeaea;
+    background-size: cover;
+    background-position:right ;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border: 1px solid #eaeaea;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color: #1A1A40;
+}
+
+.NIM {
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color: #324e63;
+}
+
+.text {
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color: #324e63;
+}
+
+.motto {
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color: #4F0E0E;
+}
+
+p {
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 450px;
+    height: auto;
+    color: #324e63;
+
+}
